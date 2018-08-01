@@ -1,0 +1,40 @@
+
+Para executar as atividades abaixo deve ter uma noção básica
+de orientação a objetos na linguagem PHP.
+
+(classe, herança, construtores, destrutores, metodos, propriedades, interfaces, acessos (public, private, protected)
+
+Básico
+http://forum.imasters.com.br/forum/159-curso-de-php/
+
+vídeos PHP orientado a objetos
+http://www.google.com/search?q=php+orienta%C3%A7%C3%A3o+a+objetos&hl=en&source=univ&tbs=vid:1&tbo=u&ei=g5_RS-24PMKLuAfDmN2IDg&sa=X&oi=video_result_group&ct=title&resnum=4&ved=0CCsQqwQwAw
+
+
+
+
+
+Artigos sobre o ARQUITETURA padrão MVC aplicada ao PHP
+
+http://www.phpro.org/tutorials/Model-View-Controller-MVC.html
+
+http://oreilly.com/php/archive/mvc-intro.html
+
+http://www.oficinadanet.com.br/artigo/1687/mvc_-_o_padrao_de_arquitetura_de_software
+
+http://www.revistaphp.com.br/artigo.php?id=50
+
+
+
+Quais as vantagens da arquitetura MVC?
+
+site alguns frameworks padrão MVC em PHP (os mais usuais).
+
+reproduza uma aplicação com o modelo em sua estação.
+
+implemente utilizando a arquitetura MVC o módulo de notícias.
+
+
+como criar um CRUD com PHP orientado a Objetos (exercício basico)
+
+https://www.youtube.com/watch?v=Y-0OQto_reA

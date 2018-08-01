@@ -1,0 +1,15 @@
+HTML + CSS + JavaScript: ganhando conhecimento
+
+ganhe os conhecimentos básicos necessários e pratique-os através do link
+http://www.w3schools.com/
+
+
+
+HTML + CSS + JavaScript: praticando o conhecimento
+
+Desenvolva em html(*) um formulário (utilize uma consulta na internet e escolha um que tenha vários elementos diferentes num mesmo formulário/página).
+
+(*) importante seguir as normas de construção W3C, html versão 5 (tableless)/CSS3 e Java Script.
+
+Os campos do formulário devem ser validados antes do envio ao servidor.
+

@@ -1,0 +1,11 @@
+1)Tutorial básico da linguagem
+http://br.php.net/tut.php
+
+2)Artigo sobre iniciação PHP (IDE e pacotes PHP)
+http://www.broculos.net/tutorials/iniciacao_ao_php_instalacao_ide_e_framework/20080319/pt
+###############################################################
+## base de apoio: (veja os vídeos em inglês) 
+## ...\MaterialReferenciaEstagio\2_HandsOn_MaoNaMassa\videos\
+###############################################################
+
+ref.: site do W3C School

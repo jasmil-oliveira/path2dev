@@ -1,0 +1,48 @@
+
+Respostas:
+
+Raciocínio Lógico
+
+ a) O filho de Marcos.
+ b) As 3 pessoas são: o avô, o pai e o filho.
+ c) 5 e 7
+ d) 9 dias, no nono dia sobe 2 m e atinge o topo e não desce 1 metro.
+ e) 3 minutos
+ f) 2
+ g) 3
+
+
+Teste 2
+
+{
+"1": "12 meses em um ano", 
+"2": "3 rodas em um triciclo", 
+"3": "27 estrelas da bandeira do Brasil", 
+"4": "3 dimensões", 
+"5": "12 signos do zodíaco", 
+"6": "0 é a temperatura em graus Celsius que a água congela", 
+"7": "7 cores no arco-íris", 
+"8": "5 a 7 continentes no mundo", 
+"9": "6 filmes do Star Wars", 
+"10": "666 é o número da besta", 
+"11": "15 capitanias hereditárias", 
+"12": "8 horas em uma jornada de trabalho", 
+"13": "2 Guianas na América do Sul", 
+"14": "3 sobrinhos do tio Patinhas", 
+"15": "27 livros no Novo Testamento", 
+"16": "2 lados de uma moeda", 
+"17": "40 dias de quaresma", 
+"18": "6 é o menor número perfeito", 
+"19": "12 números em um relógio", 
+"20": "101 Dálmatas", 
+"21": "4 cavaleiros do apocalipse", 
+"22": "206 a 214 ossos no corpo humano", 
+"23": "26 letras do alfabeto", 
+"24": "8 planetas no sistema solar", 
+"25": "52 teclas brancas em um piano", 
+"26": "M: 1000 em algarismos romanos", 
+"27": "8 bits em um byte", 
+"28": "3 cores primárias", 
+"29": "1 é o número atômico do hidrogênio", 
+"30": "7 pecados capitais"
+}

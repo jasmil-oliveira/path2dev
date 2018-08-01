@@ -1,0 +1,11 @@
+HTML + CSS + JavaScript: ganhando conhecimento
+
+O World Wide Web Consortium (W3C) é a principal organização de padronização da World Wide Web. 
+Consiste em um consórcio internacional com quase 400 membros,
+[1] agrega empresas, órgãos governamentais e organizações independentes com a finalidade de estabelecer padrões para a criação e a interpretação de conteúdos para a Web.
+
+
+
+Ganhe os conhecimentos básicos necessários, pratique-os através do link:
+http://www.w3schools.com/
+

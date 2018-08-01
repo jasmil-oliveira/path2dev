@@ -1,0 +1,52 @@
+Guia de iniciação em programação WEB
+
+
+Sequência de aprendizado
+
+1) Fundamental conhecimento sobre a web e suas tecnologias e protocolos envolvidos.
+Deve-se iniciar com o preenchimento do questionário da pasta "Pesquisa&Conhecimento"
+arquivo: questionario_internet.txt
+
+
+	#########################################################
+	##
+        ## Site inicial de referência para o aprendizado:
+	## endereço: http://www.w3schools.com/
+	##
+	#########################################################
+   
+   
+
+	Para páginas estáticas
+	a) HTML
+	b) XHTML
+	c) CSS
+	d) Java Script
+
+	Páginas Dinâmica (Server side scripts)
+
+	O conhecimento acima se misturará com qq tecnologia voltada a internet, tal como:
+	.aspx (asp .net), .jsp (Java Server Pages), .php, .do Java2EE, .py PYTHON, .pl PERL etc...
+
+	No caso do PHP a iniciação necessita de um ambiente de desenvolvimento e testes, preparado.
+
+	O que é esse ambiente?
+
+	O ambiente de infra-estrutura de desenvolvimento de sistema em php, contempla basicamente:
+
+	a) softwares de servidor
+
+	Apache - web server;
+	MySql - servidor de banco de dados;
+	Php - linguagem de script server-side;
+
+	b) integrated development environment (IDE) (ferramenta de desenvolvimento),( escolha um, faça o download e instale-o )
+
+	VisualCode, phpStorm, Netbeans dentre outras.
+	
+3) Nesta etapa é o momento de colocar a "mão na massa", essa etapa conta com o apoio de alguns vídeos voltado para o desenvolvimento de sistemas web.
+	
+	Com o conhecimento adiquirido nas etapas anteriores será possível além de instalar e configurar o ambiente
+	efetivar o início do desenvolvimento de aplicações web.
+
+

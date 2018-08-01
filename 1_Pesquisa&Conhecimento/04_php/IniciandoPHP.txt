@@ -1,0 +1,17 @@
+
+1)Tutorial básico sobre a linguagem
+http://br.php.net/tut.php
+
+2) Manual da Linguagem PHP
+http://br.php.net/manual/pt_BR/index.php
+
+3) PHP Orientado a objetos para quem esta começando
+http://codigofonte.uol.com.br/artigo/php/php-orientado-a-objetos-para-quem-esta-comecando
+
+4) Classes e Objetos
+
+http://php.net/manual/pt_BR/language.oop5.php
+
+
+5) PHP Data Objects - PDO
+http://www.php.net/manual/pt_BR/book.pdo.php

@@ -1,0 +1,24 @@
+Desenvolvimento WEB
+*** base de softwares ***
+
+pacote APACHE + PHP (5.6) + MySQL
+- XAMPP (for Windows - 64 bits)
+
+
+Emulador Terminal Linux
+- Putty
+
+FTP
+WinSCP
+FileZilla
+
+Client MySQL BD
+- HeidiSQL
+- MySQL Workbench
+
+IDE (sugestões)
+
+- NETBeans for PHP
+- Notepad ++
+
+

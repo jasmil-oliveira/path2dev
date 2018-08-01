@@ -1,0 +1,117 @@
+1) Visite o site do W3C: http://www.w3c.org. 
+
+	a) Explique o que é o W3C e quais as tecnologias que são padronizadas por ele. 
+	R:  
+
+2) Visite o site http://www.tableless.com.br. 
+
+	a) Em que consiste a técnica denominada "tableless"? 
+	R: 
+	b) O que vem a ser "web semântica"? 
+	R: 
+	c) Dê exemplos de sites (deixe o link) "tableless". 
+	R: 
+        d) O que é webstandard?
+        R:
+
+
+2.a) Dê um exemplo máximo 30 linhas (html) de uma página que SEGUE o modelo tableless/webstandart.
+código=>
+
+
+3) O que são "server-side scripts" e "client-side scripts"? Cite algumas linguagens/tecnologias usadas para cada caso. 
+	R:
+
+4) Dê o significado das seguintes siglas e explique sua finalidade. Classifique-as conforme a questão 3.
+	a) S.G.B.D.=>
+	b) SQL=> 
+	c) HTML=>
+	d) DHTML=>
+	e) XHTML=>
+	f) XML=>
+	g) CGI=>
+	h) JSP=>
+	i) ASPX=>
+	j) PHP=>
+	k) CSS=>
+        l) JS =>
+        m) JSON =>
+
+5) Quais são os principais S.G.B.D's usados em sistemas de médio e grande porte via web? Cite as principais caracteristicas de cada um deles. 
+
+6) Você já participou do desenvolvimento de algum site? Quais ferramentas você usou? Cite o(s) endereço(s) desse(s) site(s). R: 
+
+7) Conceitue os seguintes serviços: 
+
+a) www=> word wide web=> 
+
+b) FTP=>File Transfer Protocol=> 
+
+c) SMTP=>Simple Mail Transfer Protocol=>
+
+d) POP3=>Post Office Protocol=>
+
+e) IMAP=>Internet Message Access Protocol=>
+
+f) ssh/scp/telnet => 
+
+g) vpn =>
+
+
+8) Defina os tipos de servidores abaixo, cite exemplos:
+
+a)Servidor de arquivos (files erver): 
+
+b)Servidor web (web server):  
+
+c)Servidor de e-mail: 
+
+d)Servidor de impressão (print server): 
+
+e)Servidor de banco de dados (SGBD): 
+
+f)Servidor DNS: 
+
+g)Servidor proxy: 
+
+
+9) Defina as tecnologias web
+
+Web Service =>
+
+SOAP =>
+
+REST =>
+
+AJAX =>
+
+JSON =>
+
+API => 
+
+
+
+10) O que são frameworks e para que servem? Dê exemplos de frameworks para php, javascript e html/css.
+
+R:
+
+11) O que é uma IDE (Integrated Development Environment)? Cite algumas (as mais utilizadas por desenvolvedores) para as tecnologias php e java.
+R:
+
+12) O que é o padrão de arquiteutra de sistemas MVC? cite outros.
+R:
+
+13) O que são design pattern? cite alguns e explique um.
+R:
+
+14) O que é e para que serve o Node.js?
+R:
+
+15) O que é uma API e para que serve? dê um exemplo de API.
+R:
+
+16) Qual o objetivo das técnicas de SEO (Search Engine Optimization)?
+R:
+
+17) Exemplifique o funcionamento da rede de internet.
+R:
